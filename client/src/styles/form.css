@@ -1,0 +1,73 @@
+
+
+.icon-container {
+    display: flex;
+    flex-direction: row;
+    padding-left: 5rem;
+    padding-top:  5rem;
+  
+  }
+  
+  
+  .crow-icon {
+    color: #709085;
+    margin-bottom: 1rem;
+  }
+  
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    width: 75%;
+    padding-top: 2rem;
+  }
+  
+  
+  .heading {
+    font-weight: normal;
+    margin-bottom: 1rem;
+    padding-left: 5rem;
+    padding-bottom: 3rem;
+    letter-spacing: 1px;
+  }
+  
+  
+  .input-wrapper {
+    margin-bottom: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    width: 100%;
+  }
+  
+  
+  .submit-btn {
+    margin-bottom: 4rem;
+    padding-left: 5rem;
+    margin-left: 5rem;
+    width: 100%;
+
+  }
+  
+  
+  .register-image {
+    width: 100%;
+    object-fit: cover;
+    object-position: left;
+  }
+  
+  .crow-icon {
+    color: #709085;
+    margin-right: 1rem; 
+    font-size: 3rem; 
+  }
+
+  .custom-col {
+    display: none; 
+    width: 50%; 
+    padding-left: 0; 
+    padding-right: 0; 
+    display: block;
+  }
+  

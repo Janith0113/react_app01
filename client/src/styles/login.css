@@ -1,0 +1,93 @@
+.MDBContainer {
+  width: 100%;
+}
+
+.login-column {
+  padding: 0 15px;
+}
+
+.icon-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-left: 5rem;
+  padding-top: 5rem;
+}
+
+.icon-crow {
+  font-size: 3rem;
+  color: #709085;
+  margin-bottom: 1rem;
+  margin-top: 8rem;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+  width: 75%;
+  margin: auto;
+  padding-top: 4rem;
+}
+
+.form-title {
+  font-weight: normal;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  margin-bottom: 3rem;
+}
+
+.input-wrapper01 {
+  margin-bottom: 3rem;
+  margin-left: rem;
+  margin-right: 5rem;
+  width: 100%;
+}
+
+.error-message {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.submit-button {
+  margin-top: 20px;
+}
+
+.image-column {
+  display: none;
+}
+
+.login-image {
+  width: 100%;
+  object-fit: cover;
+  object-position: left;
+}
+
+.link-text {
+  margin-left: 5px;
+}
+
+.register-text {
+  margin-left: 5px;
+}
+
+.forgot-password-text {
+  font-size: 0.875rem;
+  margin-bottom: 1.25rem;
+  margin-top: 2rem;
+  padding-bottom: 1.5rem;
+  text-align: center;
+}
+
+.forgot-password-link {
+  color: #6c757d;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+@media (min-width: 576px) {
+  .image-column {
+    display: block;
+    padding: 0;
+  }
+}

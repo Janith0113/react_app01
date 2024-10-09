@@ -1,0 +1,16 @@
+/* form.css */
+.table-button {
+    margin-right: 10px;
+    padding: 5px 10px;
+  }
+  
+  .update-button {
+    background-color: #ffc107; /* Yellow for update */
+    color: white;
+  }
+  
+  .delete-button {
+    background-color: #dc3545; /* Red for delete */
+    color: white;
+  }
+  
